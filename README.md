@@ -2,7 +2,7 @@
 - 👀 I’m interested in web devoloping
 - 🌱 I’m currently learning web devolopment
 
-- 📫 How to reach me whatsapp - 9369619701
+- 📫 How to reach me whatsapp - +91 9369619701
 
 <!---
 Satyamvarma/Satyamvarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
